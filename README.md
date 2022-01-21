@@ -9,7 +9,7 @@
 
 - 💻 I'm fullstack web developer
 - 📍 I'm from France
-- 🕸️ I am passionate tech and astrophysics
+- 🕸️ I am passionate in tech and astrophysics
 - 🤝 I like to meet new people
 - 🤓 I like to learn about new tech
 
@@ -24,9 +24,3 @@ Feel free to reach me out on any platforms [here](https://www.linkedin.com/in/ad
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrien2p&theme=radical" />
   <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrien2p&layout=compact" />
 </p>
-
-## Discord Status 💻
-
-<a href="https://discord.com/users/524273709817790475">
-     <img src="https://lanyard.cnrad.dev/api/524273709817790475" width="400" height="200" />
-</a>
