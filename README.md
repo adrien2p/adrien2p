@@ -17,7 +17,12 @@
 
 Feel free to reach me out on Linkedin [here](https://www.linkedin.com/in/adriendeperetti/)
 
-[![Adrien de Peretti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8795673&theme=dark)](https://stackoverflow.com/users/8795673/omid-nikrah)
+## 📡 PLateforms
+
+<p align="center">
+  <img width="15%" src="https://github-readme-stackoverflow.vercel.app/?userID=8795673&theme=dark" />
+  <img width="48%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adrien2p" />
+</p>
 
 ## 📈 GitHub Stats
 <br>
