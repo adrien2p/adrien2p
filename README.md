@@ -15,7 +15,9 @@
 
 ## 📫 How to reach me?
 
-Feel free to reach me out on any platforms [here](https://www.linkedin.com/in/adriendeperetti/)
+Feel free to reach me out on Linkedin [here](https://www.linkedin.com/in/adriendeperetti/)
+
+[![Adrien de Peretti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8795673&theme=dark)](https://stackoverflow.com/users/8795673/omid-nikrah)
 
 ## 📈 GitHub Stats
 <br>
@@ -24,3 +26,4 @@ Feel free to reach me out on any platforms [here](https://www.linkedin.com/in/ad
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrien2p&theme=radical" />
   <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrien2p&layout=compact" />
 </p>
+
