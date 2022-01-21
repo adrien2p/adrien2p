@@ -7,17 +7,17 @@
 
 ### A few things about me
 
-- 💻 I'm fullstack web developer
+- 💻 I'm a fullstack web developer
 - 📍 I'm from France
-- 🕸️ I am passionate in tech and astrophysics
+- 🕸️ I am passionate about tech and astrophysics
 - 🤝 I like to meet new people
 - 🤓 I like to learn about new tech
 
 ## 📫 How to reach me?
 
-Feel free to reach me out on Linkedin [here](https://www.linkedin.com/in/adriendeperetti/)
+Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/adriendeperetti/)
 
-## 📡 PLateforms
+## 📡 Platforms
 
 <p align="center">
   <img width="15%" src="https://github-readme-stackoverflow.vercel.app/?userID=8795673&theme=dark" />
@@ -25,6 +25,7 @@ Feel free to reach me out on Linkedin [here](https://www.linkedin.com/in/adriend
 </p>
 
 ## 📈 GitHub Stats
+
 <br>
 <p align="center">
   <img width="33%" src="https://github-readme-stats.vercel.app/api?username=adrien2p&show_icons=true&theme=radical" />
