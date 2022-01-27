@@ -28,7 +28,7 @@ Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/adri
 
 <br>
 <p align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=adrien2p&show_icons=true&theme=radical" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=adrien2p&count_private&show_icons=true&theme=radical" />
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrien2p&theme=radical" />
   <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrien2p&layout=compact" />
 </p>
