@@ -1,8 +1,13 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Adrien2p's+GitHub+Profile!)](https://git.io/typing-svg)
 
 <h1 align="center">Hi, I'm Adrien2p <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 ![Twitter header - 1](https://user-images.githubusercontent.com/25098370/150501589-a26753f7-5026-4c7d-9396-e63cceddaef6.png)
+
+### If you like my work
+
+<a href="https://www.buymeacoffee.com/adriendeperetti" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 
 ### A few things about me
