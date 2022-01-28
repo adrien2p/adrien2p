@@ -36,5 +36,5 @@ Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/adri
 ## Pinned Repo
 
 
-[![medusa-extender](https://github-readme-stats.vercel.app/api/pin/?username=adrien2p&repo=medusa-extender)](https://github.com/anuraghazra/github-readme-stats)
+[![medusa-extender](https://github-readme-stats.vercel.app/api/pin/?username=adrien2p&repo=medusa-extender)](https://github.com/adrien2p/medusa-extender)
 
