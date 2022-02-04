@@ -1,5 +1,5 @@
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adrien2p.visitor-badge&left_color=black&right_color=green)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=adrien2p.visitor-badge&left_color=black&right_color=green)](https://www.linkedin.com/in/adriendeperetti/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Adrien2p's+GitHub+Profile!)](https://git.io/typing-svg)
 
