@@ -39,9 +39,3 @@ Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/adri
   <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrien2p&theme=radical" />
   <img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrien2p&layout=compact" />
 </p>
-
-## Pinned Repo
-
-
-[![medusa-extender](https://github-readme-stats.vercel.app/api/pin/?username=adrien2p&repo=medusa-extender)](https://github.com/adrien2p/medusa-extender)
-
