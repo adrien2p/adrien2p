@@ -22,14 +22,7 @@
 
 ## 📫 How to reach me?
 
-Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/adriendeperetti/)
-
-## 📡 Platforms
-
-<p align="center">
-  <img width="15%" src="https://github-readme-stackoverflow.vercel.app/?userID=8795673&theme=dark" />
-  <img width="48%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adrien2p" />
-</p>
+Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/
 
 ## 📈 GitHub Stats
 
