@@ -22,7 +22,7 @@
 
 ## 📫 How to reach me?
 
-Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/
+Feel free to reach out to me on Linkedin [here](https://www.linkedin.com/in/adriendeperetti)
 
 ## 📈 GitHub Stats
 
